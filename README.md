@@ -1,6 +1,6 @@
 # 클린 코드의 기술
 
-<img src="https://www.youngjin.com/images/book_cover/9788931467734.jpg" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/9788931467734.png" height="350px" style="border: 2px solid grey;">
 
 [클린 코드의 기술(영진닷컴)](https://blog.naver.com/ydot/223024853520)
 
